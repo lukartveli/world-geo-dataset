@@ -1,0 +1,1584 @@
+{
+  "version": "1.0.0",
+  "description": "Country-level entities included in Lukartveli's world geography dataset.",
+  "last_updated": "2026-08-24",
+  "country_count": 197,
+  "countries": {
+    "AFG": {
+      "name": "Afghanistan",
+      "official_name": "Islamic Emirate of Afghanistan",
+      "status": "un_member",
+      "iso_alpha_2": "AF",
+      "iso_alpha_3": "AFG",
+      "iso_numeric": 4
+    },
+    "ALB": {
+      "name": "Albania",
+      "official_name": "Republic of Albania",
+      "status": "un_member",
+      "iso_alpha_2": "AL",
+      "iso_alpha_3": "ALB",
+      "iso_numeric": 8
+    },
+    "DZA": {
+      "name": "Algeria",
+      "official_name": "People's Democratic Republic of Algeria",
+      "status": "un_member",
+      "iso_alpha_2": "DZ",
+      "iso_alpha_3": "DZA",
+      "iso_numeric": 12
+    },
+    "AND": {
+      "name": "Andorra",
+      "official_name": "Principality of Andorra",
+      "status": "un_member",
+      "iso_alpha_2": "AD",
+      "iso_alpha_3": "AND",
+      "iso_numeric": 20
+    },
+    "AGO": {
+      "name": "Angola",
+      "official_name": "Republic of Angola",
+      "status": "un_member",
+      "iso_alpha_2": "AO",
+      "iso_alpha_3": "AGO",
+      "iso_numeric": 24
+    },
+    "ATG": {
+      "name": "Antigua and Barbuda",
+      "official_name": "Antigua and Barbuda",
+      "status": "un_member",
+      "iso_alpha_2": "AG",
+      "iso_alpha_3": "ATG",
+      "iso_numeric": 28
+    },
+    "ARG": {
+      "name": "Argentina",
+      "official_name": "Argentine Republic",
+      "status": "un_member",
+      "iso_alpha_2": "AR",
+      "iso_alpha_3": "ARG",
+      "iso_numeric": 32
+    },
+    "ARM": {
+      "name": "Armenia",
+      "official_name": "Republic of Armenia",
+      "status": "un_member",
+      "iso_alpha_2": "AM",
+      "iso_alpha_3": "ARM",
+      "iso_numeric": 51
+    },
+    "AUS": {
+      "name": "Australia",
+      "official_name": "Australia",
+      "status": "un_member",
+      "iso_alpha_2": "AU",
+      "iso_alpha_3": "AUS",
+      "iso_numeric": 36
+    },
+    "AUT": {
+      "name": "Austria",
+      "official_name": "Republic of Austria",
+      "status": "un_member",
+      "iso_alpha_2": "AT",
+      "iso_alpha_3": "AUT",
+      "iso_numeric": 40
+    },
+    "AZE": {
+      "name": "Azerbaijan",
+      "official_name": "Republic of Azerbaijan",
+      "status": "un_member",
+      "iso_alpha_2": "AZ",
+      "iso_alpha_3": "AZE",
+      "iso_numeric": 31
+    },
+    "BHS": {
+      "name": "Bahamas",
+      "official_name": "Commonwealth of the Bahamas",
+      "status": "un_member",
+      "iso_alpha_2": "BS",
+      "iso_alpha_3": "BHS",
+      "iso_numeric": 44
+    },
+    "BHR": {
+      "name": "Bahrain",
+      "official_name": "Kingdom of Bahrain",
+      "status": "un_member",
+      "iso_alpha_2": "BH",
+      "iso_alpha_3": "BHR",
+      "iso_numeric": 48
+    },
+    "BGD": {
+      "name": "Bangladesh",
+      "official_name": "People's Republic of Bangladesh",
+      "status": "un_member",
+      "iso_alpha_2": "BD",
+      "iso_alpha_3": "BGD",
+      "iso_numeric": 50
+    },
+    "BRB": {
+      "name": "Barbados",
+      "official_name": "Barbados",
+      "status": "un_member",
+      "iso_alpha_2": "BB",
+      "iso_alpha_3": "BRB",
+      "iso_numeric": 52
+    },
+    "BLR": {
+      "name": "Belarus",
+      "official_name": "Republic of Belarus",
+      "status": "un_member",
+      "iso_alpha_2": "BY",
+      "iso_alpha_3": "BLR",
+      "iso_numeric": 112
+    },
+    "BEL": {
+      "name": "Belgium",
+      "official_name": "Kingdom of Belgium",
+      "status": "un_member",
+      "iso_alpha_2": "BE",
+      "iso_alpha_3": "BEL",
+      "iso_numeric": 56
+    },
+    "BLZ": {
+      "name": "Belize",
+      "official_name": "Belize",
+      "status": "un_member",
+      "iso_alpha_2": "BZ",
+      "iso_alpha_3": "BLZ",
+      "iso_numeric": 84
+    },
+    "BEN": {
+      "name": "Benin",
+      "official_name": "Republic of Benin",
+      "status": "un_member",
+      "iso_alpha_2": "BJ",
+      "iso_alpha_3": "BEN",
+      "iso_numeric": 204
+    },
+    "BTN": {
+      "name": "Bhutan",
+      "official_name": "Kingdom of Bhutan",
+      "status": "un_member",
+      "iso_alpha_2": "BT",
+      "iso_alpha_3": "BTN",
+      "iso_numeric": 64
+    },
+    "BOL": {
+      "name": "Bolivia",
+      "official_name": "Plurinational State of Bolivia",
+      "status": "un_member",
+      "iso_alpha_2": "BO",
+      "iso_alpha_3": "BOL",
+      "iso_numeric": 68
+    },
+    "BIH": {
+      "name": "Bosnia and Herzegovina",
+      "official_name": "Republic of Bosnia and Herzegovina",
+      "status": "un_member",
+      "iso_alpha_2": "BA",
+      "iso_alpha_3": "BIH",
+      "iso_numeric": 70
+    },
+    "BWA": {
+      "name": "Botswana",
+      "official_name": "Republic of Botswana",
+      "status": "un_member",
+      "iso_alpha_2": "BW",
+      "iso_alpha_3": "BWA",
+      "iso_numeric": 72
+    },
+    "BRA": {
+      "name": "Brazil",
+      "official_name": "Federative Republic of Brazil",
+      "status": "un_member",
+      "iso_alpha_2": "BR",
+      "iso_alpha_3": "BRA",
+      "iso_numeric": 76
+    },
+    "BRN": {
+      "name": "Brunei",
+      "official_name": "Brunei Darussalam",
+      "status": "un_member",
+      "iso_alpha_2": "BN",
+      "iso_alpha_3": "BRN",
+      "iso_numeric": 96
+    },
+    "BGR": {
+      "name": "Bulgaria",
+      "official_name": "Republic of Bulgaria",
+      "status": "un_member",
+      "iso_alpha_2": "BG",
+      "iso_alpha_3": "BGR",
+      "iso_numeric": 100
+    },
+    "BFA": {
+      "name": "Burkina Faso",
+      "official_name": "Burkina Faso",
+      "status": "un_member",
+      "iso_alpha_2": "BF",
+      "iso_alpha_3": "BFA",
+      "iso_numeric": 854
+    },
+    "BDI": {
+      "name": "Burundi",
+      "official_name": "Republic of Burundi",
+      "status": "un_member",
+      "iso_alpha_2": "BI",
+      "iso_alpha_3": "BDI",
+      "iso_numeric": 108
+    },
+    "CPV": {
+      "name": "Cabo Verde",
+      "official_name": "Republic of Cabo Verde",
+      "status": "un_member",
+      "iso_alpha_2": "CV",
+      "iso_alpha_3": "CPV",
+      "iso_numeric": 132
+    },
+    "KHM": {
+      "name": "Cambodia",
+      "official_name": "Kingdom of Cambodia",
+      "status": "un_member",
+      "iso_alpha_2": "KH",
+      "iso_alpha_3": "KHM",
+      "iso_numeric": 116
+    },
+    "CMR": {
+      "name": "Cameroon",
+      "official_name": "Republic of Cameroon",
+      "status": "un_member",
+      "iso_alpha_2": "CM",
+      "iso_alpha_3": "CMR",
+      "iso_numeric": 120
+    },
+    "CAN": {
+      "name": "Canada",
+      "official_name": "Canada",
+      "status": "un_member",
+      "iso_alpha_2": "CA",
+      "iso_alpha_3": "CAN",
+      "iso_numeric": 124
+    },
+    "CAF": {
+      "name": "Central African Republic",
+      "official_name": "Central African Republic",
+      "status": "un_member",
+      "iso_alpha_2": "CF",
+      "iso_alpha_3": "CAF",
+      "iso_numeric": 140
+    },
+    "TCD": {
+      "name": "Chad",
+      "official_name": "Republic of Chad",
+      "status": "un_member",
+      "iso_alpha_2": "TD",
+      "iso_alpha_3": "TCD",
+      "iso_numeric": 148
+    },
+    "CHL": {
+      "name": "Chile",
+      "official_name": "Republic of Chile",
+      "status": "un_member",
+      "iso_alpha_2": "CL",
+      "iso_alpha_3": "CHL",
+      "iso_numeric": 152
+    },
+    "CHN": {
+      "name": "China",
+      "official_name": "People's Republic of China",
+      "status": "un_member",
+      "iso_alpha_2": "CN",
+      "iso_alpha_3": "CHN",
+      "iso_numeric": 156
+    },
+    "COL": {
+      "name": "Colombia",
+      "official_name": "Republic of Colombia",
+      "status": "un_member",
+      "iso_alpha_2": "CO",
+      "iso_alpha_3": "COL",
+      "iso_numeric": 170
+    },
+    "COM": {
+      "name": "Comoros",
+      "official_name": "Union of the Comoros",
+      "status": "un_member",
+      "iso_alpha_2": "KM",
+      "iso_alpha_3": "COM",
+      "iso_numeric": 174
+    },
+    "COG": {
+      "name": "Congo",
+      "official_name": "Republic of the Congo",
+      "status": "un_member",
+      "iso_alpha_2": "CG",
+      "iso_alpha_3": "COG",
+      "iso_numeric": 178
+    },
+    "CRI": {
+      "name": "Costa Rica",
+      "official_name": "Republic of Costa Rica",
+      "status": "un_member",
+      "iso_alpha_2": "CR",
+      "iso_alpha_3": "CRI",
+      "iso_numeric": 188
+    },
+    "HRV": {
+      "name": "Croatia",
+      "official_name": "Republic of Croatia",
+      "status": "un_member",
+      "iso_alpha_2": "HR",
+      "iso_alpha_3": "HRV",
+      "iso_numeric": 191
+    },
+    "CUB": {
+      "name": "Cuba",
+      "official_name": "Republic of Cuba",
+      "status": "un_member",
+      "iso_alpha_2": "CU",
+      "iso_alpha_3": "CUB",
+      "iso_numeric": 192
+    },
+    "CYP": {
+      "name": "Cyprus",
+      "official_name": "Republic of Cyprus",
+      "status": "un_member",
+      "iso_alpha_2": "CY",
+      "iso_alpha_3": "CYP",
+      "iso_numeric": 196
+    },
+    "CZE": {
+      "name": "Czechia",
+      "official_name": "Czech Republic",
+      "status": "un_member",
+      "iso_alpha_2": "CZ",
+      "iso_alpha_3": "CZE",
+      "iso_numeric": 203
+    },
+    "CIV": {
+      "name": "Côte d'Ivoire",
+      "official_name": "Republic of Côte d'Ivoire",
+      "status": "un_member",
+      "iso_alpha_2": "CI",
+      "iso_alpha_3": "CIV",
+      "iso_numeric": 384
+    },
+    "COD": {
+      "name": "Democratic Republic of the Congo",
+      "official_name": "Democratic Republic of the Congo",
+      "status": "un_member",
+      "iso_alpha_2": "CD",
+      "iso_alpha_3": "COD",
+      "iso_numeric": 180
+    },
+    "DNK": {
+      "name": "Denmark",
+      "official_name": "Kingdom of Denmark",
+      "status": "un_member",
+      "iso_alpha_2": "DK",
+      "iso_alpha_3": "DNK",
+      "iso_numeric": 208
+    },
+    "DJI": {
+      "name": "Djibouti",
+      "official_name": "Republic of Djibouti",
+      "status": "un_member",
+      "iso_alpha_2": "DJ",
+      "iso_alpha_3": "DJI",
+      "iso_numeric": 262
+    },
+    "DMA": {
+      "name": "Dominica",
+      "official_name": "Commonwealth of Dominica",
+      "status": "un_member",
+      "iso_alpha_2": "DM",
+      "iso_alpha_3": "DMA",
+      "iso_numeric": 212
+    },
+    "DOM": {
+      "name": "Dominican Republic",
+      "official_name": "Dominican Republic",
+      "status": "un_member",
+      "iso_alpha_2": "DO",
+      "iso_alpha_3": "DOM",
+      "iso_numeric": 214
+    },
+    "ECU": {
+      "name": "Ecuador",
+      "official_name": "Republic of Ecuador",
+      "status": "un_member",
+      "iso_alpha_2": "EC",
+      "iso_alpha_3": "ECU",
+      "iso_numeric": 218
+    },
+    "EGY": {
+      "name": "Egypt",
+      "official_name": "Arab Republic of Egypt",
+      "status": "un_member",
+      "iso_alpha_2": "EG",
+      "iso_alpha_3": "EGY",
+      "iso_numeric": 818
+    },
+    "SLV": {
+      "name": "El Salvador",
+      "official_name": "Republic of El Salvador",
+      "status": "un_member",
+      "iso_alpha_2": "SV",
+      "iso_alpha_3": "SLV",
+      "iso_numeric": 222
+    },
+    "GNQ": {
+      "name": "Equatorial Guinea",
+      "official_name": "Republic of Equatorial Guinea",
+      "status": "un_member",
+      "iso_alpha_2": "GQ",
+      "iso_alpha_3": "GNQ",
+      "iso_numeric": 226
+    },
+    "ERI": {
+      "name": "Eritrea",
+      "official_name": "the State of Eritrea",
+      "status": "un_member",
+      "iso_alpha_2": "ER",
+      "iso_alpha_3": "ERI",
+      "iso_numeric": 232
+    },
+    "EST": {
+      "name": "Estonia",
+      "official_name": "Republic of Estonia",
+      "status": "un_member",
+      "iso_alpha_2": "EE",
+      "iso_alpha_3": "EST",
+      "iso_numeric": 233
+    },
+    "SWZ": {
+      "name": "Eswatini",
+      "official_name": "Kingdom of Eswatini",
+      "status": "un_member",
+      "iso_alpha_2": "SZ",
+      "iso_alpha_3": "SWZ",
+      "iso_numeric": 748
+    },
+    "ETH": {
+      "name": "Ethiopia",
+      "official_name": "Federal Democratic Republic of Ethiopia",
+      "status": "un_member",
+      "iso_alpha_2": "ET",
+      "iso_alpha_3": "ETH",
+      "iso_numeric": 231
+    },
+    "FJI": {
+      "name": "Fiji",
+      "official_name": "Republic of Fiji",
+      "status": "un_member",
+      "iso_alpha_2": "FJ",
+      "iso_alpha_3": "FJI",
+      "iso_numeric": 242
+    },
+    "FIN": {
+      "name": "Finland",
+      "official_name": "Republic of Finland",
+      "status": "un_member",
+      "iso_alpha_2": "FI",
+      "iso_alpha_3": "FIN",
+      "iso_numeric": 246
+    },
+    "FRA": {
+      "name": "France",
+      "official_name": "French Republic",
+      "status": "un_member",
+      "iso_alpha_2": "FR",
+      "iso_alpha_3": "FRA",
+      "iso_numeric": 250
+    },
+    "GAB": {
+      "name": "Gabon",
+      "official_name": "Gabonese Republic",
+      "status": "un_member",
+      "iso_alpha_2": "GA",
+      "iso_alpha_3": "GAB",
+      "iso_numeric": 266
+    },
+    "GMB": {
+      "name": "Gambia",
+      "official_name": "Republic of the Gambia",
+      "status": "un_member",
+      "iso_alpha_2": "GM",
+      "iso_alpha_3": "GMB",
+      "iso_numeric": 270
+    },
+    "GEO": {
+      "name": "Georgia",
+      "official_name": "Georgia",
+      "status": "un_member",
+      "iso_alpha_2": "GE",
+      "iso_alpha_3": "GEO",
+      "iso_numeric": 268
+    },
+    "DEU": {
+      "name": "Germany",
+      "official_name": "Federal Republic of Germany",
+      "status": "un_member",
+      "iso_alpha_2": "DE",
+      "iso_alpha_3": "DEU",
+      "iso_numeric": 276
+    },
+    "GHA": {
+      "name": "Ghana",
+      "official_name": "Republic of Ghana",
+      "status": "un_member",
+      "iso_alpha_2": "GH",
+      "iso_alpha_3": "GHA",
+      "iso_numeric": 288
+    },
+    "GRC": {
+      "name": "Greece",
+      "official_name": "Hellenic Republic",
+      "status": "un_member",
+      "iso_alpha_2": "GR",
+      "iso_alpha_3": "GRC",
+      "iso_numeric": 300
+    },
+    "GRD": {
+      "name": "Grenada",
+      "official_name": "Grenada",
+      "status": "un_member",
+      "iso_alpha_2": "GD",
+      "iso_alpha_3": "GRD",
+      "iso_numeric": 308
+    },
+    "GTM": {
+      "name": "Guatemala",
+      "official_name": "Republic of Guatemala",
+      "status": "un_member",
+      "iso_alpha_2": "GT",
+      "iso_alpha_3": "GTM",
+      "iso_numeric": 320
+    },
+    "GIN": {
+      "name": "Guinea",
+      "official_name": "Republic of Guinea",
+      "status": "un_member",
+      "iso_alpha_2": "GN",
+      "iso_alpha_3": "GIN",
+      "iso_numeric": 324
+    },
+    "GNB": {
+      "name": "Guinea-Bissau",
+      "official_name": "Republic of Guinea-Bissau",
+      "status": "un_member",
+      "iso_alpha_2": "GW",
+      "iso_alpha_3": "GNB",
+      "iso_numeric": 624
+    },
+    "GUY": {
+      "name": "Guyana",
+      "official_name": "Republic of Guyana",
+      "status": "un_member",
+      "iso_alpha_2": "GY",
+      "iso_alpha_3": "GUY",
+      "iso_numeric": 328
+    },
+    "HTI": {
+      "name": "Haiti",
+      "official_name": "Republic of Haiti",
+      "status": "un_member",
+      "iso_alpha_2": "HT",
+      "iso_alpha_3": "HTI",
+      "iso_numeric": 332
+    },
+    "HND": {
+      "name": "Honduras",
+      "official_name": "Republic of Honduras",
+      "status": "un_member",
+      "iso_alpha_2": "HN",
+      "iso_alpha_3": "HND",
+      "iso_numeric": 340
+    },
+    "HUN": {
+      "name": "Hungary",
+      "official_name": "Hungary",
+      "status": "un_member",
+      "iso_alpha_2": "HU",
+      "iso_alpha_3": "HUN",
+      "iso_numeric": 348
+    },
+    "ISL": {
+      "name": "Iceland",
+      "official_name": "Republic of Iceland",
+      "status": "un_member",
+      "iso_alpha_2": "IS",
+      "iso_alpha_3": "ISL",
+      "iso_numeric": 352
+    },
+    "IND": {
+      "name": "India",
+      "official_name": "Republic of India",
+      "status": "un_member",
+      "iso_alpha_2": "IN",
+      "iso_alpha_3": "IND",
+      "iso_numeric": 356
+    },
+    "IDN": {
+      "name": "Indonesia",
+      "official_name": "Republic of Indonesia",
+      "status": "un_member",
+      "iso_alpha_2": "ID",
+      "iso_alpha_3": "IDN",
+      "iso_numeric": 360
+    },
+    "IRN": {
+      "name": "Iran",
+      "official_name": "Islamic Republic of Iran",
+      "status": "un_member",
+      "iso_alpha_2": "IR",
+      "iso_alpha_3": "IRN",
+      "iso_numeric": 364
+    },
+    "IRQ": {
+      "name": "Iraq",
+      "official_name": "Republic of Iraq",
+      "status": "un_member",
+      "iso_alpha_2": "IQ",
+      "iso_alpha_3": "IRQ",
+      "iso_numeric": 368
+    },
+    "IRL": {
+      "name": "Ireland",
+      "official_name": "Ireland",
+      "status": "un_member",
+      "iso_alpha_2": "IE",
+      "iso_alpha_3": "IRL",
+      "iso_numeric": 372
+    },
+    "ISR": {
+      "name": "Israel",
+      "official_name": "State of Israel",
+      "status": "un_member",
+      "iso_alpha_2": "IL",
+      "iso_alpha_3": "ISR",
+      "iso_numeric": 376
+    },
+    "ITA": {
+      "name": "Italy",
+      "official_name": "Italian Republic",
+      "status": "un_member",
+      "iso_alpha_2": "IT",
+      "iso_alpha_3": "ITA",
+      "iso_numeric": 380
+    },
+    "JAM": {
+      "name": "Jamaica",
+      "official_name": "Jamaica",
+      "status": "un_member",
+      "iso_alpha_2": "JM",
+      "iso_alpha_3": "JAM",
+      "iso_numeric": 388
+    },
+    "JPN": {
+      "name": "Japan",
+      "official_name": "Japan",
+      "status": "un_member",
+      "iso_alpha_2": "JP",
+      "iso_alpha_3": "JPN",
+      "iso_numeric": 392
+    },
+    "JOR": {
+      "name": "Jordan",
+      "official_name": "Hashemite Kingdom of Jordan",
+      "status": "un_member",
+      "iso_alpha_2": "JO",
+      "iso_alpha_3": "JOR",
+      "iso_numeric": 400
+    },
+    "KAZ": {
+      "name": "Kazakhstan",
+      "official_name": "Republic of Kazakhstan",
+      "status": "un_member",
+      "iso_alpha_2": "KZ",
+      "iso_alpha_3": "KAZ",
+      "iso_numeric": 398
+    },
+    "KEN": {
+      "name": "Kenya",
+      "official_name": "Republic of Kenya",
+      "status": "un_member",
+      "iso_alpha_2": "KE",
+      "iso_alpha_3": "KEN",
+      "iso_numeric": 404
+    },
+    "KIR": {
+      "name": "Kiribati",
+      "official_name": "Republic of Kiribati",
+      "status": "un_member",
+      "iso_alpha_2": "KI",
+      "iso_alpha_3": "KIR",
+      "iso_numeric": 296
+    },
+    "XKX": {
+      "name": "Kosovo",
+      "official_name": "Republic of Kosovo",
+      "status": "other",
+      "iso_alpha_2": "XK",
+      "iso_alpha_3": "XKX",
+      "iso_numeric": null
+    },
+    "KWT": {
+      "name": "Kuwait",
+      "official_name": "State of Kuwait",
+      "status": "un_member",
+      "iso_alpha_2": "KW",
+      "iso_alpha_3": "KWT",
+      "iso_numeric": 414
+    },
+    "KGZ": {
+      "name": "Kyrgyzstan",
+      "official_name": "Kyrgyz Republic",
+      "status": "un_member",
+      "iso_alpha_2": "KG",
+      "iso_alpha_3": "KGZ",
+      "iso_numeric": 417
+    },
+    "LAO": {
+      "name": "Laos",
+      "official_name": "Lao People's Democratic Republic",
+      "status": "un_member",
+      "iso_alpha_2": "LA",
+      "iso_alpha_3": "LAO",
+      "iso_numeric": 418
+    },
+    "LVA": {
+      "name": "Latvia",
+      "official_name": "Republic of Latvia",
+      "status": "un_member",
+      "iso_alpha_2": "LV",
+      "iso_alpha_3": "LVA",
+      "iso_numeric": 428
+    },
+    "LBN": {
+      "name": "Lebanon",
+      "official_name": "Lebanese Republic",
+      "status": "un_member",
+      "iso_alpha_2": "LB",
+      "iso_alpha_3": "LBN",
+      "iso_numeric": 422
+    },
+    "LSO": {
+      "name": "Lesotho",
+      "official_name": "Kingdom of Lesotho",
+      "status": "un_member",
+      "iso_alpha_2": "LS",
+      "iso_alpha_3": "LSO",
+      "iso_numeric": 426
+    },
+    "LBR": {
+      "name": "Liberia",
+      "official_name": "Republic of Liberia",
+      "status": "un_member",
+      "iso_alpha_2": "LR",
+      "iso_alpha_3": "LBR",
+      "iso_numeric": 430
+    },
+    "LBY": {
+      "name": "Libya",
+      "official_name": "Libya",
+      "status": "un_member",
+      "iso_alpha_2": "LY",
+      "iso_alpha_3": "LBY",
+      "iso_numeric": 434
+    },
+    "LIE": {
+      "name": "Liechtenstein",
+      "official_name": "Principality of Liechtenstein",
+      "status": "un_member",
+      "iso_alpha_2": "LI",
+      "iso_alpha_3": "LIE",
+      "iso_numeric": 438
+    },
+    "LTU": {
+      "name": "Lithuania",
+      "official_name": "Republic of Lithuania",
+      "status": "un_member",
+      "iso_alpha_2": "LT",
+      "iso_alpha_3": "LTU",
+      "iso_numeric": 440
+    },
+    "LUX": {
+      "name": "Luxembourg",
+      "official_name": "Grand Duchy of Luxembourg",
+      "status": "un_member",
+      "iso_alpha_2": "LU",
+      "iso_alpha_3": "LUX",
+      "iso_numeric": 442
+    },
+    "MDG": {
+      "name": "Madagascar",
+      "official_name": "Republic of Madagascar",
+      "status": "un_member",
+      "iso_alpha_2": "MG",
+      "iso_alpha_3": "MDG",
+      "iso_numeric": 450
+    },
+    "MWI": {
+      "name": "Malawi",
+      "official_name": "Republic of Malawi",
+      "status": "un_member",
+      "iso_alpha_2": "MW",
+      "iso_alpha_3": "MWI",
+      "iso_numeric": 454
+    },
+    "MYS": {
+      "name": "Malaysia",
+      "official_name": "Malaysia",
+      "status": "un_member",
+      "iso_alpha_2": "MY",
+      "iso_alpha_3": "MYS",
+      "iso_numeric": 458
+    },
+    "MDV": {
+      "name": "Maldives",
+      "official_name": "Republic of Maldives",
+      "status": "un_member",
+      "iso_alpha_2": "MV",
+      "iso_alpha_3": "MDV",
+      "iso_numeric": 462
+    },
+    "MLI": {
+      "name": "Mali",
+      "official_name": "Republic of Mali",
+      "status": "un_member",
+      "iso_alpha_2": "ML",
+      "iso_alpha_3": "MLI",
+      "iso_numeric": 466
+    },
+    "MLT": {
+      "name": "Malta",
+      "official_name": "Republic of Malta",
+      "status": "un_member",
+      "iso_alpha_2": "MT",
+      "iso_alpha_3": "MLT",
+      "iso_numeric": 470
+    },
+    "MHL": {
+      "name": "Marshall Islands",
+      "official_name": "Republic of the Marshall Islands",
+      "status": "un_member",
+      "iso_alpha_2": "MH",
+      "iso_alpha_3": "MHL",
+      "iso_numeric": 584
+    },
+    "MRT": {
+      "name": "Mauritania",
+      "official_name": "Islamic Republic of Mauritania",
+      "status": "un_member",
+      "iso_alpha_2": "MR",
+      "iso_alpha_3": "MRT",
+      "iso_numeric": 478
+    },
+    "MUS": {
+      "name": "Mauritius",
+      "official_name": "Republic of Mauritius",
+      "status": "un_member",
+      "iso_alpha_2": "MU",
+      "iso_alpha_3": "MUS",
+      "iso_numeric": 480
+    },
+    "MEX": {
+      "name": "Mexico",
+      "official_name": "United Mexican States",
+      "status": "un_member",
+      "iso_alpha_2": "MX",
+      "iso_alpha_3": "MEX",
+      "iso_numeric": 484
+    },
+    "FSM": {
+      "name": "Micronesia",
+      "official_name": "Federated States of Micronesia",
+      "status": "un_member",
+      "iso_alpha_2": "FM",
+      "iso_alpha_3": "FSM",
+      "iso_numeric": 583
+    },
+    "MDA": {
+      "name": "Moldova",
+      "official_name": "Republic of Moldova",
+      "status": "un_member",
+      "iso_alpha_2": "MD",
+      "iso_alpha_3": "MDA",
+      "iso_numeric": 498
+    },
+    "MCO": {
+      "name": "Monaco",
+      "official_name": "Principality of Monaco",
+      "status": "un_member",
+      "iso_alpha_2": "MC",
+      "iso_alpha_3": "MCO",
+      "iso_numeric": 492
+    },
+    "MNG": {
+      "name": "Mongolia",
+      "official_name": "Mongolia",
+      "status": "un_member",
+      "iso_alpha_2": "MN",
+      "iso_alpha_3": "MNG",
+      "iso_numeric": 496
+    },
+    "MNE": {
+      "name": "Montenegro",
+      "official_name": "Montenegro",
+      "status": "un_member",
+      "iso_alpha_2": "ME",
+      "iso_alpha_3": "MNE",
+      "iso_numeric": 499
+    },
+    "MAR": {
+      "name": "Morocco",
+      "official_name": "Kingdom of Morocco",
+      "status": "un_member",
+      "iso_alpha_2": "MA",
+      "iso_alpha_3": "MAR",
+      "iso_numeric": 504
+    },
+    "MOZ": {
+      "name": "Mozambique",
+      "official_name": "Republic of Mozambique",
+      "status": "un_member",
+      "iso_alpha_2": "MZ",
+      "iso_alpha_3": "MOZ",
+      "iso_numeric": 508
+    },
+    "MMR": {
+      "name": "Myanmar",
+      "official_name": "Republic of Myanmar",
+      "status": "un_member",
+      "iso_alpha_2": "MM",
+      "iso_alpha_3": "MMR",
+      "iso_numeric": 104
+    },
+    "NAM": {
+      "name": "Namibia",
+      "official_name": "Republic of Namibia",
+      "status": "un_member",
+      "iso_alpha_2": "NA",
+      "iso_alpha_3": "NAM",
+      "iso_numeric": 516
+    },
+    "NRU": {
+      "name": "Nauru",
+      "official_name": "Republic of Nauru",
+      "status": "un_member",
+      "iso_alpha_2": "NR",
+      "iso_alpha_3": "NRU",
+      "iso_numeric": 520
+    },
+    "NPL": {
+      "name": "Nepal",
+      "official_name": "Federal Democratic Republic of Nepal",
+      "status": "un_member",
+      "iso_alpha_2": "NP",
+      "iso_alpha_3": "NPL",
+      "iso_numeric": 524
+    },
+    "NLD": {
+      "name": "Netherlands",
+      "official_name": "Kingdom of the Netherlands",
+      "status": "un_member",
+      "iso_alpha_2": "NL",
+      "iso_alpha_3": "NLD",
+      "iso_numeric": 528
+    },
+    "NZL": {
+      "name": "New Zealand",
+      "official_name": "New Zealand",
+      "status": "un_member",
+      "iso_alpha_2": "NZ",
+      "iso_alpha_3": "NZL",
+      "iso_numeric": 554
+    },
+    "NIC": {
+      "name": "Nicaragua",
+      "official_name": "Republic of Nicaragua",
+      "status": "un_member",
+      "iso_alpha_2": "NI",
+      "iso_alpha_3": "NIC",
+      "iso_numeric": 558
+    },
+    "NER": {
+      "name": "Niger",
+      "official_name": "Republic of the Niger",
+      "status": "un_member",
+      "iso_alpha_2": "NE",
+      "iso_alpha_3": "NER",
+      "iso_numeric": 562
+    },
+    "NGA": {
+      "name": "Nigeria",
+      "official_name": "Federal Republic of Nigeria",
+      "status": "un_member",
+      "iso_alpha_2": "NG",
+      "iso_alpha_3": "NGA",
+      "iso_numeric": 566
+    },
+    "PRK": {
+      "name": "North Korea",
+      "official_name": "Democratic People's Republic of Korea",
+      "status": "un_member",
+      "iso_alpha_2": "KP",
+      "iso_alpha_3": "PRK",
+      "iso_numeric": 408
+    },
+    "MKD": {
+      "name": "North Macedonia",
+      "official_name": "Republic of North Macedonia",
+      "status": "un_member",
+      "iso_alpha_2": "MK",
+      "iso_alpha_3": "MKD",
+      "iso_numeric": 807
+    },
+    "NOR": {
+      "name": "Norway",
+      "official_name": "Kingdom of Norway",
+      "status": "un_member",
+      "iso_alpha_2": "NO",
+      "iso_alpha_3": "NOR",
+      "iso_numeric": 578
+    },
+    "OMN": {
+      "name": "Oman",
+      "official_name": "Sultanate of Oman",
+      "status": "un_member",
+      "iso_alpha_2": "OM",
+      "iso_alpha_3": "OMN",
+      "iso_numeric": 512
+    },
+    "PAK": {
+      "name": "Pakistan",
+      "official_name": "Islamic Republic of Pakistan",
+      "status": "un_member",
+      "iso_alpha_2": "PK",
+      "iso_alpha_3": "PAK",
+      "iso_numeric": 586
+    },
+    "PLW": {
+      "name": "Palau",
+      "official_name": "Republic of Palau",
+      "status": "un_member",
+      "iso_alpha_2": "PW",
+      "iso_alpha_3": "PLW",
+      "iso_numeric": 585
+    },
+    "PSE": {
+      "name": "Palestine",
+      "official_name": "State of Palestine",
+      "status": "un_observer",
+      "iso_alpha_2": "PS",
+      "iso_alpha_3": "PSE",
+      "iso_numeric": 275
+    },
+    "PAN": {
+      "name": "Panama",
+      "official_name": "Republic of Panama",
+      "status": "un_member",
+      "iso_alpha_2": "PA",
+      "iso_alpha_3": "PAN",
+      "iso_numeric": 591
+    },
+    "PNG": {
+      "name": "Papua New Guinea",
+      "official_name": "Independent State of Papua New Guinea",
+      "status": "un_member",
+      "iso_alpha_2": "PG",
+      "iso_alpha_3": "PNG",
+      "iso_numeric": 598
+    },
+    "PRY": {
+      "name": "Paraguay",
+      "official_name": "Republic of Paraguay",
+      "status": "un_member",
+      "iso_alpha_2": "PY",
+      "iso_alpha_3": "PRY",
+      "iso_numeric": 600
+    },
+    "PER": {
+      "name": "Peru",
+      "official_name": "Republic of Peru",
+      "status": "un_member",
+      "iso_alpha_2": "PE",
+      "iso_alpha_3": "PER",
+      "iso_numeric": 604
+    },
+    "PHL": {
+      "name": "Philippines",
+      "official_name": "Republic of the Philippines",
+      "status": "un_member",
+      "iso_alpha_2": "PH",
+      "iso_alpha_3": "PHL",
+      "iso_numeric": 608
+    },
+    "POL": {
+      "name": "Poland",
+      "official_name": "Republic of Poland",
+      "status": "un_member",
+      "iso_alpha_2": "PL",
+      "iso_alpha_3": "POL",
+      "iso_numeric": 616
+    },
+    "PRT": {
+      "name": "Portugal",
+      "official_name": "Portuguese Republic",
+      "status": "un_member",
+      "iso_alpha_2": "PT",
+      "iso_alpha_3": "PRT",
+      "iso_numeric": 620
+    },
+    "QAT": {
+      "name": "Qatar",
+      "official_name": "State of Qatar",
+      "status": "un_member",
+      "iso_alpha_2": "QA",
+      "iso_alpha_3": "QAT",
+      "iso_numeric": 634
+    },
+    "ROU": {
+      "name": "Romania",
+      "official_name": "Romania",
+      "status": "un_member",
+      "iso_alpha_2": "RO",
+      "iso_alpha_3": "ROU",
+      "iso_numeric": 642
+    },
+    "RUS": {
+      "name": "Russia",
+      "official_name": "Russian Federation",
+      "status": "un_member",
+      "iso_alpha_2": "RU",
+      "iso_alpha_3": "RUS",
+      "iso_numeric": 643
+    },
+    "RWA": {
+      "name": "Rwanda",
+      "official_name": "Rwandese Republic",
+      "status": "un_member",
+      "iso_alpha_2": "RW",
+      "iso_alpha_3": "RWA",
+      "iso_numeric": 646
+    },
+    "KNA": {
+      "name": "Saint Kitts and Nevis",
+      "official_name": "Saint Kitts and Nevis",
+      "status": "un_member",
+      "iso_alpha_2": "KN",
+      "iso_alpha_3": "KNA",
+      "iso_numeric": 659
+    },
+    "LCA": {
+      "name": "Saint Lucia",
+      "official_name": "Saint Lucia",
+      "status": "un_member",
+      "iso_alpha_2": "LC",
+      "iso_alpha_3": "LCA",
+      "iso_numeric": 662
+    },
+    "VCT": {
+      "name": "Saint Vincent and the Grenadines",
+      "official_name": "Saint Vincent and the Grenadines",
+      "status": "un_member",
+      "iso_alpha_2": "VC",
+      "iso_alpha_3": "VCT",
+      "iso_numeric": 670
+    },
+    "WSM": {
+      "name": "Samoa",
+      "official_name": "Independent State of Samoa",
+      "status": "un_member",
+      "iso_alpha_2": "WS",
+      "iso_alpha_3": "WSM",
+      "iso_numeric": 882
+    },
+    "SMR": {
+      "name": "San Marino",
+      "official_name": "Republic of San Marino",
+      "status": "un_member",
+      "iso_alpha_2": "SM",
+      "iso_alpha_3": "SMR",
+      "iso_numeric": 674
+    },
+    "STP": {
+      "name": "Sao Tome and Principe",
+      "official_name": "Democratic Republic of Sao Tome and Principe",
+      "status": "un_member",
+      "iso_alpha_2": "ST",
+      "iso_alpha_3": "STP",
+      "iso_numeric": 678
+    },
+    "SAU": {
+      "name": "Saudi Arabia",
+      "official_name": "Kingdom of Saudi Arabia",
+      "status": "un_member",
+      "iso_alpha_2": "SA",
+      "iso_alpha_3": "SAU",
+      "iso_numeric": 682
+    },
+    "SEN": {
+      "name": "Senegal",
+      "official_name": "Republic of Senegal",
+      "status": "un_member",
+      "iso_alpha_2": "SN",
+      "iso_alpha_3": "SEN",
+      "iso_numeric": 686
+    },
+    "SRB": {
+      "name": "Serbia",
+      "official_name": "Republic of Serbia",
+      "status": "un_member",
+      "iso_alpha_2": "RS",
+      "iso_alpha_3": "SRB",
+      "iso_numeric": 688
+    },
+    "SYC": {
+      "name": "Seychelles",
+      "official_name": "Republic of Seychelles",
+      "status": "un_member",
+      "iso_alpha_2": "SC",
+      "iso_alpha_3": "SYC",
+      "iso_numeric": 690
+    },
+    "SLE": {
+      "name": "Sierra Leone",
+      "official_name": "Republic of Sierra Leone",
+      "status": "un_member",
+      "iso_alpha_2": "SL",
+      "iso_alpha_3": "SLE",
+      "iso_numeric": 694
+    },
+    "SGP": {
+      "name": "Singapore",
+      "official_name": "Republic of Singapore",
+      "status": "un_member",
+      "iso_alpha_2": "SG",
+      "iso_alpha_3": "SGP",
+      "iso_numeric": 702
+    },
+    "SVK": {
+      "name": "Slovakia",
+      "official_name": "Slovak Republic",
+      "status": "un_member",
+      "iso_alpha_2": "SK",
+      "iso_alpha_3": "SVK",
+      "iso_numeric": 703
+    },
+    "SVN": {
+      "name": "Slovenia",
+      "official_name": "Republic of Slovenia",
+      "status": "un_member",
+      "iso_alpha_2": "SI",
+      "iso_alpha_3": "SVN",
+      "iso_numeric": 705
+    },
+    "SLB": {
+      "name": "Solomon Islands",
+      "official_name": "Solomon Islands",
+      "status": "un_member",
+      "iso_alpha_2": "SB",
+      "iso_alpha_3": "SLB",
+      "iso_numeric": 90
+    },
+    "SOM": {
+      "name": "Somalia",
+      "official_name": "Federal Republic of Somalia",
+      "status": "un_member",
+      "iso_alpha_2": "SO",
+      "iso_alpha_3": "SOM",
+      "iso_numeric": 706
+    },
+    "ZAF": {
+      "name": "South Africa",
+      "official_name": "Republic of South Africa",
+      "status": "un_member",
+      "iso_alpha_2": "ZA",
+      "iso_alpha_3": "ZAF",
+      "iso_numeric": 710
+    },
+    "KOR": {
+      "name": "South Korea",
+      "official_name": "Republic of Korea",
+      "status": "un_member",
+      "iso_alpha_2": "KR",
+      "iso_alpha_3": "KOR",
+      "iso_numeric": 410
+    },
+    "SSD": {
+      "name": "South Sudan",
+      "official_name": "Republic of South Sudan",
+      "status": "un_member",
+      "iso_alpha_2": "SS",
+      "iso_alpha_3": "SSD",
+      "iso_numeric": 728
+    },
+    "ESP": {
+      "name": "Spain",
+      "official_name": "Kingdom of Spain",
+      "status": "un_member",
+      "iso_alpha_2": "ES",
+      "iso_alpha_3": "ESP",
+      "iso_numeric": 724
+    },
+    "LKA": {
+      "name": "Sri Lanka",
+      "official_name": "Democratic Socialist Republic of Sri Lanka",
+      "status": "un_member",
+      "iso_alpha_2": "LK",
+      "iso_alpha_3": "LKA",
+      "iso_numeric": 144
+    },
+    "SDN": {
+      "name": "Sudan",
+      "official_name": "Republic of the Sudan",
+      "status": "un_member",
+      "iso_alpha_2": "SD",
+      "iso_alpha_3": "SDN",
+      "iso_numeric": 729
+    },
+    "SUR": {
+      "name": "Suriname",
+      "official_name": "Republic of Suriname",
+      "status": "un_member",
+      "iso_alpha_2": "SR",
+      "iso_alpha_3": "SUR",
+      "iso_numeric": 740
+    },
+    "SWE": {
+      "name": "Sweden",
+      "official_name": "Kingdom of Sweden",
+      "status": "un_member",
+      "iso_alpha_2": "SE",
+      "iso_alpha_3": "SWE",
+      "iso_numeric": 752
+    },
+    "CHE": {
+      "name": "Switzerland",
+      "official_name": "Swiss Confederation",
+      "status": "un_member",
+      "iso_alpha_2": "CH",
+      "iso_alpha_3": "CHE",
+      "iso_numeric": 756
+    },
+    "SYR": {
+      "name": "Syria",
+      "official_name": "Syrian Arab Republic",
+      "status": "un_member",
+      "iso_alpha_2": "SY",
+      "iso_alpha_3": "SYR",
+      "iso_numeric": 760
+    },
+    "TWN": {
+      "name": "Taiwan",
+      "official_name": "Republic of China",
+      "status": "other",
+      "iso_alpha_2": "TW",
+      "iso_alpha_3": "TWN",
+      "iso_numeric": 158
+    },
+    "TJK": {
+      "name": "Tajikistan",
+      "official_name": "Republic of Tajikistan",
+      "status": "un_member",
+      "iso_alpha_2": "TJ",
+      "iso_alpha_3": "TJK",
+      "iso_numeric": 762
+    },
+    "TZA": {
+      "name": "Tanzania",
+      "official_name": "United Republic of Tanzania",
+      "status": "un_member",
+      "iso_alpha_2": "TZ",
+      "iso_alpha_3": "TZA",
+      "iso_numeric": 834
+    },
+    "THA": {
+      "name": "Thailand",
+      "official_name": "Kingdom of Thailand",
+      "status": "un_member",
+      "iso_alpha_2": "TH",
+      "iso_alpha_3": "THA",
+      "iso_numeric": 764
+    },
+    "TLS": {
+      "name": "Timor-Leste",
+      "official_name": "Democratic Republic of Timor-Leste",
+      "status": "un_member",
+      "iso_alpha_2": "TL",
+      "iso_alpha_3": "TLS",
+      "iso_numeric": 626
+    },
+    "TGO": {
+      "name": "Togo",
+      "official_name": "Togolese Republic",
+      "status": "un_member",
+      "iso_alpha_2": "TG",
+      "iso_alpha_3": "TGO",
+      "iso_numeric": 768
+    },
+    "TON": {
+      "name": "Tonga",
+      "official_name": "Kingdom of Tonga",
+      "status": "un_member",
+      "iso_alpha_2": "TO",
+      "iso_alpha_3": "TON",
+      "iso_numeric": 776
+    },
+    "TTO": {
+      "name": "Trinidad and Tobago",
+      "official_name": "Republic of Trinidad and Tobago",
+      "status": "un_member",
+      "iso_alpha_2": "TT",
+      "iso_alpha_3": "TTO",
+      "iso_numeric": 780
+    },
+    "TUN": {
+      "name": "Tunisia",
+      "official_name": "Republic of Tunisia",
+      "status": "un_member",
+      "iso_alpha_2": "TN",
+      "iso_alpha_3": "TUN",
+      "iso_numeric": 788
+    },
+    "TKM": {
+      "name": "Turkmenistan",
+      "official_name": "Turkmenistan",
+      "status": "un_member",
+      "iso_alpha_2": "TM",
+      "iso_alpha_3": "TKM",
+      "iso_numeric": 795
+    },
+    "TUV": {
+      "name": "Tuvalu",
+      "official_name": "Tuvalu",
+      "status": "un_member",
+      "iso_alpha_2": "TV",
+      "iso_alpha_3": "TUV",
+      "iso_numeric": 798
+    },
+    "TUR": {
+      "name": "Türkiye",
+      "official_name": "Republic of Türkiye",
+      "status": "un_member",
+      "iso_alpha_2": "TR",
+      "iso_alpha_3": "TUR",
+      "iso_numeric": 792
+    },
+    "UGA": {
+      "name": "Uganda",
+      "official_name": "Republic of Uganda",
+      "status": "un_member",
+      "iso_alpha_2": "UG",
+      "iso_alpha_3": "UGA",
+      "iso_numeric": 800
+    },
+    "UKR": {
+      "name": "Ukraine",
+      "official_name": "Ukraine",
+      "status": "un_member",
+      "iso_alpha_2": "UA",
+      "iso_alpha_3": "UKR",
+      "iso_numeric": 804
+    },
+    "ARE": {
+      "name": "United Arab Emirates",
+      "official_name": "United Arab Emirates",
+      "status": "un_member",
+      "iso_alpha_2": "AE",
+      "iso_alpha_3": "ARE",
+      "iso_numeric": 784
+    },
+    "GBR": {
+      "name": "United Kingdom",
+      "official_name": "United Kingdom of Great Britain and Northern Ireland",
+      "status": "un_member",
+      "iso_alpha_2": "GB",
+      "iso_alpha_3": "GBR",
+      "iso_numeric": 826
+    },
+    "USA": {
+      "name": "United States",
+      "official_name": "United States of America",
+      "status": "un_member",
+      "iso_alpha_2": "US",
+      "iso_alpha_3": "USA",
+      "iso_numeric": 840
+    },
+    "URY": {
+      "name": "Uruguay",
+      "official_name": "Eastern Republic of Uruguay",
+      "status": "un_member",
+      "iso_alpha_2": "UY",
+      "iso_alpha_3": "URY",
+      "iso_numeric": 858
+    },
+    "UZB": {
+      "name": "Uzbekistan",
+      "official_name": "Republic of Uzbekistan",
+      "status": "un_member",
+      "iso_alpha_2": "UZ",
+      "iso_alpha_3": "UZB",
+      "iso_numeric": 860
+    },
+    "VUT": {
+      "name": "Vanuatu",
+      "official_name": "Republic of Vanuatu",
+      "status": "un_member",
+      "iso_alpha_2": "VU",
+      "iso_alpha_3": "VUT",
+      "iso_numeric": 548
+    },
+    "VAT": {
+      "name": "Vatican City",
+      "official_name": "Vatican City State",
+      "status": "un_observer",
+      "iso_alpha_2": "VA",
+      "iso_alpha_3": "VAT",
+      "iso_numeric": 336
+    },
+    "VEN": {
+      "name": "Venezuela",
+      "official_name": "Bolivarian Republic of Venezuela",
+      "status": "un_member",
+      "iso_alpha_2": "VE",
+      "iso_alpha_3": "VEN",
+      "iso_numeric": 862
+    },
+    "VNM": {
+      "name": "Vietnam",
+      "official_name": "Socialist Republic of Viet Nam",
+      "status": "un_member",
+      "iso_alpha_2": "VN",
+      "iso_alpha_3": "VNM",
+      "iso_numeric": 704
+    },
+    "YEM": {
+      "name": "Yemen",
+      "official_name": "Republic of Yemen",
+      "status": "un_member",
+      "iso_alpha_2": "YE",
+      "iso_alpha_3": "YEM",
+      "iso_numeric": 887
+    },
+    "ZMB": {
+      "name": "Zambia",
+      "official_name": "Republic of Zambia",
+      "status": "un_member",
+      "iso_alpha_2": "ZM",
+      "iso_alpha_3": "ZMB",
+      "iso_numeric": 894
+    },
+    "ZWE": {
+      "name": "Zimbabwe",
+      "official_name": "Republic of Zimbabwe",
+      "status": "un_member",
+      "iso_alpha_2": "ZW",
+      "iso_alpha_3": "ZWE",
+      "iso_numeric": 716
+    }
+  }
+}
