@@ -1,0 +1,42 @@
+{
+  "country": "BEL",
+  "level": "ADM1",
+  "subdivisions": [
+    {
+      "id": "BEL-ADM1-001",
+      "name": "Flanders",
+      "official_name": "Flemish Region",
+      "local_name": {
+        "nl": "Vlaams Gewest",
+        "fr": "Région flamande"
+      },
+      "aliases": ["Vlaanderen", "Flandres"],
+      "iso_3166_2": "BE-VLG",
+      "parent_id": "BEL"
+    },
+    {
+      "id": "BEL-ADM1-002",
+      "name": "Wallonia",
+      "official_name": "Walloon Region",
+      "local_name": {
+        "fr": "Région wallonne",
+        "nl": "Waals Gewest"
+      },
+      "aliases": ["Wallonië", "Wallonie"],
+      "iso_3166_2": "BE-WAL",
+      "parent_id": "BEL"
+    },
+    {
+      "id": "BEL-ADM1-003",
+      "name": "Brussels",
+      "official_name": "Brussels-Capital Region",
+      "local_name": {
+        "nl": "Brussels Hoofdstedelijk Gewest",
+        "fr": "Région de Bruxelles-Capitale"
+      },
+      "aliases": ["Brussel", "Bruxelles"],
+      "iso_3166_2": "BE-BRU",
+      "parent_id": "BEL"
+    }
+  ]
+}
