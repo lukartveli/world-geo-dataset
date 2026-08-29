@@ -5,11 +5,11 @@
 ## ADM0
 
 Countries currently contain:
--English name
--Official full English name
--Iso 3166-1 alpha-2
--Iso 3166-1 alpha-3
--International Status
+1. English name
+2. Official full English name
+3. Iso 3166-1 alpha-2
+4. Iso 3166-1 alpha-3
+5. International Status
 
 
 
