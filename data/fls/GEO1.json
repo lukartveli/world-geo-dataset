@@ -1,0 +1,231 @@
+[
+  {
+    "id": "GEO-ABK",
+    "name": "Abkhazia",
+    "aliases": [
+      "Abkhazeti"
+    ],
+    "parent": "GEO",
+    "children": [
+      "GEO-ABK-GAG",
+      "GEO-ABK-GAL",
+      "GEO-ABK-GUD",
+      "GEO-ABK-SOC",
+      "GEO-ABK-SOD",
+      "GEO-ABK-OCH",
+      "GEO-ABK-GUL",
+      "GEO-ABK-TKV"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-AJR",
+    "name": "Adjara",
+    "aliases": [
+      "Atchara",
+      "Atjara",
+      "Achara"
+    ],
+    "parent": "GEO",
+    "children": [
+      "GEO-AJR-BAT",
+      "GEO-AJR-KED",
+      "GEO-AJR-KHU",
+      "GEO-AJR-SHU",
+      "GEO-AJR-HEL",
+      "GEO-AJR-KOB"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-GUR",
+    "name": "Guria",
+    "aliases": [],
+    "parent": "GEO",
+    "children": [
+      "GEO-GUR-OZU",
+      "GEO-GUR-LAN",
+      "GEO-GUR-CHO"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME",
+    "name": "Imereti",
+    "aliases": [],
+    "parent": "GEO",
+    "children": [
+      "GEO-IME-KUT",
+      "GEO-IME-KHO",
+      "GEO-IME-SAM",
+      "GEO-IME-TSK",
+      "GEO-IME-VAN",
+      "GEO-IME-BAG",
+      "GEO-IME-ZES",
+      "GEO-IME-TER",
+      "GEO-IME-TKI",
+      "GEO-IME-KHA",
+      "GEO-IME-CHI",
+      "GEO-IME-SAC"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KAK",
+    "name": "Kakheti",
+    "aliases": [],
+    "parent": "GEO",
+    "children": [
+      "GEO-KAK-TEL",
+      "GEO-KAK-AKH",
+      "GEO-KAK-DED",
+      "GEO-KAK-GUR",
+      "GEO-KAK-LAG",
+      "GEO-KAK-SAG",
+      "GEO-KAK-SIG",
+      "GEO-KAK-KVA"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-MTS",
+    "name": "Mtskheta-Mtianeti",
+    "aliases": [
+      "Mtskheta",
+      "Mtianeti"
+    ],
+    "parent": "GEO",
+    "children": [
+      "GEO-MTS-DUS",
+      "GEO-MTS-MTS",
+      "GEO-MTS-KAZ",
+      "GEO-MTS-TIA"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-RAC",
+    "name": "Racha-Lechkhumi and Kvemo Svaneti",
+    "aliases": [
+      "Racha",
+      "Kvemo Svaneti",
+      "Lechkhumi
+    ],
+    "parent": "GEO",
+    "children": [
+      "GEO-RAC-ONI",
+      "GEO-RAC-MES",
+      "GEO-RAC-TSA",
+      "GEO-RAC-LEN"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SAM",
+    "name": "Samegrelo-Zemo Svaneti",
+    "aliases": [
+      "Samegrelo",
+      "Zemo Svaneti"
+    ],
+    "parent": "GEO",
+    "children": [
+      "GEO-SAM-MES",
+      "GEO-SAM-CHK",
+      "GEO-SAM-ZUG",
+      "GEO-SAM-POT",
+      "GEO-SAM-KHO",
+      "GEO-SAM-TSA",
+      "GEO-SAM-MAR",
+      "GEO-SAM-SEN",
+      "GEO-SAM-ABA"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SJA",
+    "name": "Samtskhe-Javakheti",
+    "aliases": [
+      "Samtskhe",
+      "Javakheti"
+    ],
+    "parent": "GEO",
+    "children": [
+      "GEO-SJA-ADI",
+      "GEO-SJA-AKK",
+      "GEO-SJA-AKT",
+      "GEO-SJA-ASP",
+      "GEO-SJA-BOR",
+      "GEO-SJA-NIN"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KVE",
+    "name": "Kvemo Kartli",
+    "aliases": [],
+    "parent": "GEO",
+    "children": [
+      "GEO-KVE-RUS",
+      "GEO-KVE-GAR",
+      "GEO-KVE-BOL",
+      "GEO-KVE-DMA",
+      "GEO-KVE-MAR",
+      "GEO-KVE-TET",
+      "GEO-KVE-TSA"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SHI",
+    "name": "Shida Kartli",
+    "aliases": [],
+    "parent": "GEO",
+    "children": [
+      "GEO-SHI-AKH",
+      "GEO-SHI-GOR",
+      "GEO-SHI-JAV",
+      "GEO-SHI-KAR",
+      "GEO-SHI-KAS",
+      "GEO-SHI-KHA",
+      "GEO-SHI-KVA",
+      "GEO-SHI-TSD",
+      "GEO-SHI-TSC",
+      "GEO-SHI-KOR"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-TBI",
+    "name": "Tbilisi",
+    "aliases": [],
+    "parent": "GEO",
+    "children": [
+      "GEO-TBI-TBI"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  }
+]
