@@ -1,0 +1,139 @@
+[
+  {
+    "id": "BEL-VLG-VAN",
+    "name": "Antwerp",
+    "aliases": [
+      "Antwerpen",
+      "Anvers"
+    ],
+    "parent": "BEL-VLG",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-VLG-VOV",
+    "name": "East Flanders",
+    "aliases": [
+      "Oost-Vlaanderen",
+      "Flandre Oriental"
+    ],
+    "parent": "BEL-VLG",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-VLG-VBR",
+    "name": "Flemish Brabant",
+    "aliases": [
+      "Vlaams-Brabant",
+      "Brabant Flamand"
+    ],
+    "parent": "BEL-VLG",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-VLG-VLI",
+    "name": "Limburg",
+    "aliases": [],
+    "parent": "BEL-VLG",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-VLG-VWV",
+    "name": "West Flanders",
+    "aliases": [
+      "West-Vlaanderen",
+      "Flandre Occidentale"
+    ],
+    "parent": "BEL-VLG",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-WAL-WBR",
+    "name": "Walloon Brabant",
+    "aliases": [
+      "Brabant Wallon",
+      "Waals-Brabant"
+    ],
+    "parent": "BEL-WAL",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-WAL-WHT",
+    "name": "Hainaut",
+    "aliases": [
+      "Henegouwen"
+    ],
+    "parent": "BEL-WAL",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-WAL-WLG",
+    "name": "Liège",
+    "aliases": [
+      "Liege",
+      "Luik"
+    ],
+    "parent": "BEL-WAL",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-WAL-WLX",
+    "name": "Luxembourg",
+    "aliases": [
+      "Luxemburg"
+    ],
+    "parent": "BEL-WAL",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-WAL-WNA",
+    "name": "Namur",
+    "aliases": [
+      "Namen"
+    ],
+    "parent": "BEL-WAL",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-BRU-BRU",
+    "name": "Brussels",
+    "aliases": [
+      "Bruxelles",
+      "Brussel"
+    ],
+    "parent": "BEL-BRU",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  }
+]
