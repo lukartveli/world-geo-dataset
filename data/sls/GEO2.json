@@ -1,0 +1,795 @@
+[
+  {
+    "id": "GEO-ABK-GAG",
+    "name": "Gagra",
+    "aliases": [],
+    "parent": "GEO-ABK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-ABK-GAL",
+    "name": "Gali",
+    "aliases": [],
+    "parent": "GEO-ABK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-ABK-GUD",
+    "name": "Gudauta",
+    "aliases": [],
+    "parent": "GEO-ABK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-ABK-SOC",
+    "name": "Sokhumi",
+    "aliases": [],
+    "parent": "GEO-ABK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-ABK-SOD",
+    "name": "Sokhumi District",
+    "aliases": [],
+    "parent": "GEO-ABK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-ABK-OCH",
+    "name": "Ochamchire",
+    "aliases": [],
+    "parent": "GEO-ABK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-ABK-GUL",
+    "name": "Gulripshi",
+    "aliases": [],
+    "parent": "GEO-ABK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-ABK-TKV",
+    "name": "Tkvarcheli",
+    "aliases": [],
+    "parent": "GEO-ABK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+
+  {
+    "id": "GEO-AJR-BAT",
+    "name": "Batumi",
+    "aliases": [],
+    "parent": "GEO-AJR",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-AJR-KED",
+    "name": "Keda",
+    "aliases": [],
+    "parent": "GEO-AJR",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-AJR-KHU",
+    "name": "Khulo",
+    "aliases": [],
+    "parent": "GEO-AJR",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-AJR-SHU",
+    "name": "Shuakhevi",
+    "aliases": [],
+    "parent": "GEO-AJR",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-AJR-HEL",
+    "name": "Khelvachauri",
+    "aliases": [],
+    "parent": "GEO-AJR",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-AJR-KOB",
+    "name": "Kobuleti",
+    "aliases": [],
+    "parent": "GEO-AJR",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+
+  {
+    "id": "GEO-GUR-OZU",
+    "name": "Ozurgeti",
+    "aliases": [],
+    "parent": "GEO-GUR",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-GUR-LAN",
+    "name": "Lanchkhuti",
+    "aliases": [],
+    "parent": "GEO-GUR",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-GUR-CHO",
+    "name": "Chokhatauri",
+    "aliases": [],
+    "parent": "GEO-GUR",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+
+  {
+    "id": "GEO-IME-KUT",
+    "name": "Kutaisi",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME-KHO",
+    "name": "Khoni",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME-SAM",
+    "name": "Samtredia",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME-TSK",
+    "name": "Tskaltubo",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME-VAN",
+    "name": "Vani",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME-BAG",
+    "name": "Baghdati",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME-ZES",
+    "name": "Zestaponi",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME-TER",
+    "name": "Terjola",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME-TKI",
+    "name": "Tkibuli",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME-KHA",
+    "name": "Kharagauli",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME-CHI",
+    "name": "Chiatura",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-IME-SAC",
+    "name": "Sachkhere",
+    "aliases": [],
+    "parent": "GEO-IME",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+
+  {
+    "id": "GEO-KAK-TEL",
+    "name": "Telavi",
+    "aliases": [],
+    "parent": "GEO-KAK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KAK-AKH",
+    "name": "Akhmeta",
+    "aliases": [],
+    "parent": "GEO-KAK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KAK-DED",
+    "name": "Dedoplistskaro",
+    "aliases": [],
+    "parent": "GEO-KAK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KAK-GUR",
+    "name": "Gurjaani",
+    "aliases": [],
+    "parent": "GEO-KAK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KAK-LAG",
+    "name": "Lagodekhi",
+    "aliases": [],
+    "parent": "GEO-KAK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KAK-SAG",
+    "name": "Sagarejo",
+    "aliases": [],
+    "parent": "GEO-KAK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KAK-SIG",
+    "name": "Sighnaghi",
+    "aliases": [],
+    "parent": "GEO-KAK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KAK-KVA",
+    "name": "Kvareli",
+    "aliases": [],
+    "parent": "GEO-KAK",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+
+  {
+    "id": "GEO-MTS-DUS",
+    "name": "Dusheti",
+    "aliases": [],
+    "parent": "GEO-MTS",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-MTS-MTS",
+    "name": "Mtskheta",
+    "aliases": [],
+    "parent": "GEO-MTS",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-MTS-KAZ",
+    "name": "Kazbegi",
+    "aliases": [
+      "Stepantsminda"
+    ],
+    "parent": "GEO-MTS",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-MTS-TIA",
+    "name": "Tianeti",
+    "aliases": [],
+    "parent": "GEO-MTS",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+
+  {
+    "id": "GEO-RAC-ONI",
+    "name": "Oni",
+    "aliases": [],
+    "parent": "GEO-RAC",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-RAC-MES",
+    "name": "Ambrolauri",
+    "aliases": [],
+    "parent": "GEO-RAC",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-RAC-TSA",
+    "name": "Tsageri",
+    "aliases": [],
+    "parent": "GEO-RAC",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-RAC-LEN",
+    "name": "Lentekhi",
+    "aliases": [],
+    "parent": "GEO-RAC",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+
+  {
+    "id": "GEO-SAM-MES",
+    "name": "Mestia",
+    "aliases": [],
+    "parent": "GEO-SAM",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SAM-CHK",
+    "name": "Chkhorotsku",
+    "aliases": [],
+    "parent": "GEO-SAM",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SAM-ZUG",
+    "name": "Zugdidi",
+    "aliases": [],
+    "parent": "GEO-SAM",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SAM-POT",
+    "name": "Poti",
+    "aliases": [],
+    "parent": "GEO-SAM",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SAM-KHO",
+    "name": "Khobi",
+    "aliases": [],
+    "parent": "GEO-SAM",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SAM-TSA",
+    "name": "Tsalenjikha",
+    "aliases": [],
+    "parent": "GEO-SAM",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SAM-MAR",
+    "name": "Martvili",
+    "aliases": [],
+    "parent": "GEO-SAM",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SAM-SEN",
+    "name": "Senaki",
+    "aliases": [],
+    "parent": "GEO-SAM",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SAM-ABA",
+    "name": "Abasha",
+    "aliases": [],
+    "parent": "GEO-SAM",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+
+  {
+    "id": "GEO-SJA-ADI",
+    "name": "Adigeni",
+    "aliases": [],
+    "parent": "GEO-SJA",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SJA-AKK",
+    "name": "Akhalkalaki",
+    "aliases": [],
+    "parent": "GEO-SJA",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SJA-AKT",
+    "name": "Akhaltsikhe",
+    "aliases": [],
+    "parent": "GEO-SJA",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SJA-ASP",
+    "name": "Aspindza",
+    "aliases": [],
+    "parent": "GEO-SJA",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SJA-BOR",
+    "name": "Borjomi",
+    "aliases": [],
+    "parent": "GEO-SJA",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SJA-NIN",
+    "name": "Ninotsminda",
+    "aliases": [],
+    "parent": "GEO-SJA",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+
+  {
+    "id": "GEO-KVE-RUS",
+    "name": "Rustavi",
+    "aliases": [],
+    "parent": "GEO-KVE",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KVE-GAR",
+    "name": "Gardabani",
+    "aliases": [],
+    "parent": "GEO-KVE",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KVE-BOL",
+    "name": "Bolnisi",
+    "aliases": [],
+    "parent": "GEO-KVE",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KVE-DMA",
+    "name": "Dmanisi",
+    "aliases": [],
+    "parent": "GEO-KVE",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KVE-MAR",
+    "name": "Marneuli",
+    "aliases": [],
+    "parent": "GEO-KVE",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KVE-TET",
+    "name": "Tetritskaro",
+    "aliases": [],
+    "parent": "GEO-KVE",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-KVE-TSA",
+    "name": "Tsalka",
+    "aliases": [],
+    "parent": "GEO-KVE",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+
+  {
+    "id": "GEO-SHI-AKH",
+    "name": "Akhalgori",
+    "aliases": [],
+    "parent": "GEO-SHI",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SHI-GOR",
+    "name": "Gori",
+    "aliases": [],
+    "parent": "GEO-SHI",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SHI-JAV",
+    "name": "Java",
+    "aliases": [],
+    "parent": "GEO-SHI",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SHI-KAR",
+    "name": "Kareli",
+    "aliases": [],
+    "parent": "GEO-SHI",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SHI-KAS",
+    "name": "Kaspi",
+    "aliases": [],
+    "parent": "GEO-SHI",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SHI-KHA",
+    "name": "Khashuri",
+    "aliases": [],
+    "parent": "GEO-SHI",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SHI-KVA",
+    "name": "Kvaisi",
+    "aliases": [],
+    "parent": "GEO-SHI",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SHI-TSD",
+    "name": "Tskhinvali District",
+    "aliases": [],
+    "parent": "GEO-SHI",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SHI-TSC",
+    "name": "Tskhinvali City",
+    "aliases": [],
+    "parent": "GEO-SHI",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "GEO-SHI-KOR",
+    "name": "Kornisi",
+    "aliases": [],
+    "parent": "GEO-SHI",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+
+  {
+    "id": "GEO-TBI-TBI",
+    "name": "Tbilisi",
+    "aliases": [],
+    "parent": "GEO-TBI",
+    "children": [],
+    "properties": {},
+    "links": [],
+    "sources": []
+  }
+]
