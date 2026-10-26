@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BEL-VLG",
+    "name": "Flemish Region",
+    "aliases": [
+      "Vlaams Gewest",
+      "Flanders",
+      "Vlaanderen"
+    ],
+    "parent": "BEL",
+    "children": [
+      "BEL-VLG-VAN",
+      "BEL-VLG-VOV",
+      "BEL-VLG-VBR",
+      "BEL-VLG-VLI",
+      "BEL-VLG-VWV"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-WAL",
+    "name": "Walloon Region",
+    "aliases": [
+      "Région wallonne",
+      "Wallonia",
+      "Wallonie"
+    ],
+    "parent": "BEL",
+    "children": [
+      "BEL-WAL-WBR",
+      "BEL-WAL-WHT",
+      "BEL-WAL-WLG",
+      "BEL-WAL-WLX",
+      "BEL-WAL-WNA"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  },
+  {
+    "id": "BEL-BRU",
+    "name": "Brussels-Capital Region",
+    "aliases": [
+      "Brussels",
+      "Bruxelles",
+      "Brussel",
+      "Brussels Hoofdstedelijk Gewest",
+      "Région de Bruxelles-Capitale"
+    ],
+    "parent": "BEL",
+    "children": [
+      "BEL-BRU-BRU"
+    ],
+    "properties": {},
+    "links": [],
+    "sources": []
+  }
+]
