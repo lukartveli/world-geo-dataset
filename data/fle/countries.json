@@ -515,9 +515,10 @@
       "iso_alpha_2": "GE",
       "iso_alpha_3": "GEO",
       "iso_numeric": 268,
+      "default_variant": "international",
       "variants": [
-        "south-ossetia",
-        "international"
+        "international",
+        "south-ossetia"
       ]
     },
     "DEU": {
