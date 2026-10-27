@@ -514,7 +514,10 @@
       "status": "un_member",
       "iso_alpha_2": "GE",
       "iso_alpha_3": "GEO",
-      "iso_numeric": 268
+      "iso_numeric": 268,
+      "variants": [
+        "south-ossetia",
+        "international"
     },
     "DEU": {
       "name": "Germany",
