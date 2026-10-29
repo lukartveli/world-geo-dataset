@@ -1,0 +1,192 @@
+[
+  {
+    "id": "ALB-VLO",
+    "name": "Vlorë",
+
+    "aliases": [],
+
+    "parent": "ALB",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  },
+  {
+    "id": "ALB-KUK",
+    "name": "Kukës",
+
+    "aliases": [],
+
+    "parent": "",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  },
+  {
+    "id": "ALB-GJI",
+    "name": "Gjirokastër",
+
+    "aliases": [],
+
+    "parent": "",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  },
+  {
+    "id": "ALB-FIE",
+    "name": "Fier",
+
+    "aliases": [],
+
+    "parent": "",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  },  {
+    "id": "ALB-BER",
+    "name": "Berat",
+
+    "aliases": [],
+
+    "parent": "",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  },
+  {
+    "id": "ALB-ELB",
+    "name": "Elbasan",
+
+    "aliases": [],
+
+    "parent": "",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  },  {
+    "id": "ALB-TIR",
+    "name": "Tirana",
+
+    "aliases": [
+      "Tiranë"
+    ],
+
+    "parent": "",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  },
+  {
+    "id": "ALB-DUR",
+    "name": "Durrës",
+
+    "aliases": [],
+
+    "parent": "",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  },  {
+    "id": "ALB-LEZ",
+    "name": "Lezhë",
+
+    "aliases": [],
+
+    "parent": "",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  },
+  {
+    "id": "ALB-DIB",
+    "name": "Dibër",
+
+    "aliases": [],
+
+    "parent": "",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  },  {
+    "id": "ALB-KOR",
+    "name": "Korçë",
+
+    "aliases": [],
+
+    "parent": "",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  },
+  {
+    "id": "ALB-SHK",
+    "name": "Shkodër",
+
+    "aliases": [],
+
+    "parent": "",
+
+    "children": [],
+
+    "properties": {},
+
+    "links": [],
+
+    "sources": []
+  }
+]
