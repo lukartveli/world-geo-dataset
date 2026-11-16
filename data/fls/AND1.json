@@ -1,0 +1,135 @@
+[
+  {
+    "id": "AND-CAN",
+    "name": "Canillo",
+    "aliases": [],
+    "parent": "AND",
+    "children": [],
+    "properties": {
+      "level": 1,
+      "type": "parish",
+      "country_code": "AND",
+      "iso_3166_2": "AD-02"
+    },
+    "links": [],
+    "sources": [
+  "https://en.wikipedia.org/wiki/Parishes_of_Andorra",
+  "https://soluap.com/andorra-territorial-structure-the-7-parishes-parroquies/"
+]
+  },
+  {
+    "id": "AND-ENC",
+    "name": "Encamp",
+    "aliases": [],
+    "parent": "AND",
+    "children": [],
+    "properties": {
+      "level": 1,
+      "type": "parish",
+      "country_code": "AND",
+      "iso_3166_2": "AD-03"
+    },
+    "links": [],
+    "sources": [
+  "https://en.wikipedia.org/wiki/Parishes_of_Andorra",
+  "https://soluap.com/andorra-territorial-structure-the-7-parishes-parroquies/"
+]
+  },
+  {
+    "id": "AND-LAM",
+    "name": "La Massana",
+    "aliases": ["Massana"],
+    "parent": "AND",
+    "children": [],
+    "properties": {
+      "level": 1,
+      "type": "parish",
+      "country_code": "AND",
+      "iso_3166_2": "AD-04"
+    },
+    "links": [],
+    "sources": [
+  "https://en.wikipedia.org/wiki/Parishes_of_Andorra",
+  "https://soluap.com/andorra-territorial-structure-the-7-parishes-parroquies/"
+]
+  },
+  {
+    "id": "AND-ORD",
+    "name": "Ordino",
+    "aliases": [],
+    "parent": "AND",
+    "children": [],
+    "properties": {
+      "level": 1,
+      "type": "parish",
+      "country_code": "AND",
+      "iso_3166_2": "AD-05"
+    },
+    "links": [],
+    "sources": [
+  "https://en.wikipedia.org/wiki/Parishes_of_Andorra",
+  "https://soluap.com/andorra-territorial-structure-the-7-parishes-parroquies/"
+]  
+},
+  {
+    "id": "AND-SJL",
+    "name": "Sant Julià de Lòria",
+    "aliases": [
+      "Sant Julia de Loria",
+      "Sant Julia",
+      "St Julia"
+    ],
+    "parent": "AND",
+    "children": [],
+    "properties": {
+      "level": 1,
+      "type": "parish",
+      "country_code": "AND",
+      "iso_3166_2": "AD-06"
+    },
+    "links": [],
+    "sources": [
+  "https://en.wikipedia.org/wiki/Parishes_of_Andorra",
+  "https://soluap.com/andorra-territorial-structure-the-7-parishes-parroquies/"
+]
+  },
+  {
+    "id": "AND-ALV",
+    "name": "Andorra la Vella",
+    "aliases": ["La Vella"],
+    "parent": "AND",
+    "children": [],
+    "properties": {
+      "level": 1,
+      "type": "parish",
+      "country_code": "AND",
+      "iso_3166_2": "AD-07"
+    },
+    "links": [],
+    "sources": [
+  "https://en.wikipedia.org/wiki/Parishes_of_Andorra",
+  "https://soluap.com/andorra-territorial-structure-the-7-parishes-parroquies/"
+]
+  },
+  {
+    "id": "AND-ESC",
+    "name": "Escaldes-Engordany",
+    "aliases": [
+      "Escaldes",
+      "Engordany"
+    ],
+    "parent": "AND",
+    "children": [],
+    "properties": {
+      "level": 1,
+      "type": "parish",
+      "country_code": "AND",
+      "iso_3166_2": "AD-08"
+    },
+    "links": [],
+    "sources": [
+  "https://en.wikipedia.org/wiki/Parishes_of_Andorra",
+  "https://soluap.com/andorra-territorial-structure-the-7-parishes-parroquies/"
+]
+  }
+]
