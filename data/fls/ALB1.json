@@ -2,191 +2,119 @@
   {
     "id": "ALB-VLO",
     "name": "Vlorë",
-
     "aliases": [],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
   {
     "id": "ALB-KUK",
     "name": "Kukës",
-
     "aliases": [],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
   {
     "id": "ALB-GJI",
     "name": "Gjirokastër",
-
     "aliases": [],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
   {
     "id": "ALB-FIE",
     "name": "Fier",
-
     "aliases": [],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },  {
     "id": "ALB-BER",
     "name": "Berat",
-
     "aliases": [],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
   {
     "id": "ALB-ELB",
     "name": "Elbasan",
-
     "aliases": [],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },  {
     "id": "ALB-TIR",
     "name": "Tirana",
-
     "aliases": [
       "Tiranë"
     ],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
   {
     "id": "ALB-DUR",
     "name": "Durrës",
-
     "aliases": [],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },  {
     "id": "ALB-LEZ",
     "name": "Lezhë",
-
     "aliases": [],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
   {
     "id": "ALB-DIB",
     "name": "Dibër",
-
     "aliases": [],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },  {
     "id": "ALB-KOR",
     "name": "Korçë",
-
     "aliases": [],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
   {
     "id": "ALB-SHK",
     "name": "Shkodër",
-
     "aliases": [],
-
     "parent": "ALB",
-
     "children": [],
-
     "properties": {},
-
     "links": [],
-
-    "sources": []
+    "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   }
 ]
