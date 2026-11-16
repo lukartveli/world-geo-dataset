@@ -5,7 +5,11 @@
     "aliases": [],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
@@ -15,7 +19,11 @@
     "aliases": [],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"      
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
@@ -25,7 +33,11 @@
     "aliases": [],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"      
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
@@ -35,7 +47,11 @@
     "aliases": [],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"      
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },  {
@@ -44,7 +60,11 @@
     "aliases": [],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"      
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
@@ -54,18 +74,26 @@
     "aliases": [],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"      
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },  {
     "id": "ALB-TIR",
-    "name": "Tirana",
+    "name": "Tiranë",
     "aliases": [
-      "Tiranë"
+      "Tirana"
     ],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"      
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
@@ -75,7 +103,11 @@
     "aliases": [],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"      
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },  {
@@ -84,7 +116,11 @@
     "aliases": [],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"      
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
@@ -94,7 +130,11 @@
     "aliases": [],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"      
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },  {
@@ -103,7 +143,11 @@
     "aliases": [],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"      
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   },
@@ -113,7 +157,11 @@
     "aliases": [],
     "parent": "ALB",
     "children": [],
-    "properties": {},
+    "properties": {
+      "level": 1,
+      "type": "county",
+      "country_code": "ALB"      
+    },
     "links": [],
     "sources": ["https://www.instat.gov.al/en/documentation/classifications/version/?verId=3488"]
   }
